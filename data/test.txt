@@ -1,0 +1,8 @@
+1. Burger       $15.0
+2. Burger       $15.0
+3. Burger       $15.0
+4. Burger       $15.0
+5. Burger       $15.0
+6. Burger       $15.0
+Total: $90
+Total Price AFTER Tax: $103.5
